@@ -1,4 +1,4 @@
-package Latihan09;
+package Students;
 
 import java.util.Scanner;
 
